@@ -1,0 +1,12 @@
+flask
+langchain
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+gunicorn
+jinja2
+sqlalchemy
+tensorflow  # or pytorch
+request
